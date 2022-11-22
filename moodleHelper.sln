@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moodleHelper", "moodleHelper\moodleHelper.csproj", "{922B5F1F-2D42-47BF-AFE2-B64BFCE44ACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{922B5F1F-2D42-47BF-AFE2-B64BFCE44ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922B5F1F-2D42-47BF-AFE2-B64BFCE44ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922B5F1F-2D42-47BF-AFE2-B64BFCE44ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922B5F1F-2D42-47BF-AFE2-B64BFCE44ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {876E271A-612D-49D7-BAFD-89CB3C5BDB74}
+	EndGlobalSection
+EndGlobal
